@@ -1,3 +1,4 @@
-torch>=2.1.0
-numpy>=1.24.0
-matplotlib>=3.7.0
+torch~=2.8.0
+numpy~=1.26.4
+matplotlib~=3.9.4
+dlkoopman~=1.2.1
